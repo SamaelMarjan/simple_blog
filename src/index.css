@@ -6,6 +6,8 @@
 
 html,
 body {
+  color: #fff;
+  background: #2B2B2B;
   font-family: 'Roboto', sans-serif;
   scroll-behavior: smooth;
   -webkit-font-smoothing: antialiased;
