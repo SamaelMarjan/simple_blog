@@ -13,8 +13,8 @@ const Navbar = () => {
             <a href='#product' className='flex items-center justify-center w-[57px] h-[24px]'>Product</a>
             <a href='#contacts' className='flex items-center justify-center w-[65px] h-[24px]'>Contacts</a>
           </div>
-          <div>
-            <a href='a'>Download</a>
+          <div className='bg-[#423F3E] rounded px-4 py-2'>
+            <a href='a' className='font-normal md:font-bold text-lg'>Download</a>
           </div>
         </div>
       </div>

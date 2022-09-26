@@ -1,13 +1,13 @@
-import React from 'react'
+import React from 'react';
 
 const Top = () => {
   return (
     <>
-        <div className='fixed w-[300px] h-[200px]  top-10'>
+        <div className='fixed top-[80%] left-[50%] right-[50%] md:top-[80%] md:right-[50%]'>
             <a href='#'>abj</a>
         </div>
     </>
-  )
+  );
 }
 
-export default Top
+export default Top;
